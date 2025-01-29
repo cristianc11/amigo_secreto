@@ -1,0 +1,4 @@
+el objetivo es crear una app que permita a los usuarios ingresar el nombre de los amigos y luego realizar un 
+sorteo para determinar quien es el amigo secreto
+
+- La aplicacion debe permitir ingresar texto con un campo y un cta de añadir
